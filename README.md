@@ -1,5 +1,5 @@
 # 💫 About Me:
-Don't follow me, because I'm lost too
+### Don't follow me, because I'm lost too
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Galkurta&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>

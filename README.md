@@ -1,5 +1,6 @@
 # 💫 About Me:
 ### Don't follow me, because I'm lost too
+### [Buy me coffe here](https://saweria.co/Galkurta)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Galkurta&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>

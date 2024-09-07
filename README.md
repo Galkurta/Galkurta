@@ -44,7 +44,7 @@ I'm a passionate developer on an exciting journey through the world of code. Whi
 
 <div align="center">
 
-- Coming soon! 🔜
+Coming soon! 🔜
 
 </div>
 

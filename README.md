@@ -74,14 +74,6 @@ Coming soon! 🔜
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Galkurta&theme=vue" alt="Contribution Graph" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Galkurta&color=brightgreen" alt="Profile Views" />
   <br><br>

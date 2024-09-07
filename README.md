@@ -75,7 +75,7 @@ Coming soon! 🔜
 ---
 
 <div align="center">
-  ![Visitors](https://visitcount.itsvg.in/api?id=Galkurta&icon=10&color=0)
+  [Visitors](https://visitcount.itsvg.in/api?id=Galkurta&icon=10&color=0)
   <br><br>
   <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
 </div>

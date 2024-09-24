@@ -11,6 +11,9 @@
   <a href="https://saweria.co/Galkurta" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
+  <a href="https://t.me/galkurtarchive" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Channel">
+  </a>
 </p>
 
 ---
@@ -49,7 +52,7 @@ I'm continuously exploring these technologies and more. Every day is an opportun
 
 <div align="center">
 
-Comming Soon
+Coming Soon
 
 </div>
 
